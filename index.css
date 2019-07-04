@@ -1,0 +1,27 @@
+/* FAZ PARTE PROJETEO RESERVA */
+.topo{
+	width: 1100px;
+	height: 60px;
+	float: left;
+	margin-left: 60px;
+}
+
+.conteudo{
+	width: 1100px;
+	height: 740px;
+	float: left;
+	margin-left: 60px;
+}
+.menu{
+	width: 220px;
+	height: 800px;	
+	float: left;
+}
+.user{
+	border-bottom: 1px solid #ABCC92;
+	margin-left: 20px;
+}
+
+nav li.active, nav li:hover {
+    background-color: #8FBC8F;
+}
